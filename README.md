@@ -33,7 +33,6 @@ This repository includes different Exploratory Data Analysis projects covering:
 | Airbnb EDA | Analyzing Airbnb listings and pricing |
 | Books EDA | Exploring book ratings and sales |
 | Movies EDA | Analyzing movie datasets |
-| Zomato EDA | Restaurant and food data analysis |
 
 *More projects will be added as I continue learning.*
 
